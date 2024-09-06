@@ -21,4 +21,4 @@ Tools:
 - Sweetalert2
 - Codeigniter Ion Auth
 
-![alt text](https://github.com/tegarpratama/school-website/blob/master/capture.png?raw=true) 
+
